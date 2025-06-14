@@ -1,6 +1,9 @@
 # 👨‍💻 Jaime
 
 Hola, soy Jaime, desarrollador en formación con visión **tecnológica y estratégica**.
+---
+
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -27,6 +30,3 @@ Estoy enfocado en el impacto: **tecnología que mejora decisiones, automatiza pr
 
 ---
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
