@@ -38,7 +38,6 @@ Estoy enfocado en el impacto: **tecnología que mejora decisiones, automatiza pr
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime-D-Z&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-D-Z&layout=compact&theme=tokyonight)  
-![Profile Views](https://komarev.com/ghpvc/?username=Jaime-D-Z&color=blueviolet&style=flat-square)
 
 ---
 
