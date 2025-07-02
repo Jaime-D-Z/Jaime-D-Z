@@ -1,50 +1,51 @@
 # 👨‍💻 Jaime
 
-Hola, soy Jaime, desarrollador en formación con visión **tecnológica y estratégica**.
+**Full Stack Developer** in training — building **real-world solutions** using code, logic, and creativity.
 
 ---
 
-Me gusta **construir soluciones que conectan el código con la realidad**.  
-No solo programo, **analizo, automatizo y creo sistemas que resuelven problemas reales**.  
-Estoy enfocado en el impacto: **tecnología que mejora decisiones, automatiza procesos y aprende contigo**.
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🌐 Frontend
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
----
+### ⚙️ Backend
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
----
-
-## 🧠 Intereses
-
-- La intersección entre datos, decisiones y eficiencia.  
-- Cómo la inteligencia artificial está redefiniendo el mundo (y cómo formar parte de eso).  
-- El diseño de **bots inteligentes** que entienden, responden y actúan con propósito.  
-- Crear sistemas autónomos que no solo ejecutan, sino que **aprenden y evolucionan**.  
-- Usar IA como una herramienta para amplificar el potencial humano, no reemplazarlo.
+### 🧰 Tools & Other
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-![AI Thinking](https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif)
+## 🤖 Interests
+
+- Smart bots 🤖 that respond, understand, and act
+- Real-time dashboards and automation systems
+- AI-powered solutions that evolve and learn
+- Clean UI with intelligent backend logic
+- Technology that solves real problems, not just theory
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime-D-Z&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-D-Z&layout=compact&theme=tokyonight)  
+![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime-D-Z&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-D-Z&layout=compact&theme=tokyonight)
 
 ---
 
-🧠 + 🤖 + ⚙️ = Soluciones reales con propósito.  
-> "No se trata solo de programar, se trata de **crear impacto con inteligencia**."
+> "I don't just write code — I build **purpose-driven systems** that work, scale, and evolve."
 
-<!--
-  Si estás leyendo esto, probablemente te importa el detalle.
-  Eso ya dice mucho de ti. 🤝
--->
+<!-- Feel free to connect! -->
+
