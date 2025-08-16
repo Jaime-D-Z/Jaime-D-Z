@@ -29,7 +29,9 @@
 ---
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2ZDQ2aXR6aDBhazV4ejlwMXZpMTJwb21pMTU4MmMzZ2k0MHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/or0s8qzLMNyJW/giphy.gif" width="400" alt="Naruto GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTIwdG1tb3Y5ajMzM3lsbDlwbGFpazZkOHBncGlwZHl0a2VvMTFwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14lxrmDfI1vQhW/giphy.gif" 
+       width="320" 
+       alt="Naruto GIF" />
 </p>
 
 ---
