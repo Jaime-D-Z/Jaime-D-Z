@@ -27,12 +27,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
-
-## 📈 GitHub Stats
-
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime-D-Z&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-D-Z&layout=compact&theme=tokyonight)
-
+(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2ZDQ2aXR6aDBhazV4ejlwMXZpMTJwb21pMTU4MmMzZ2k0MHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/or0s8qzLMNyJW/giphy.gif)
 ---
 
 > "I don't just write code — I build **purpose-driven systems** that work, scale, and evolve."
