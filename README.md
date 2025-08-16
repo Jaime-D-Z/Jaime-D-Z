@@ -27,10 +27,13 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ---
-(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2ZDQ2aXR6aDBhazV4ejlwMXZpMTJwb21pMTU4MmMzZ2k0MHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/or0s8qzLMNyJW/giphy.gif)
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2ZDQ2aXR6aDBhazV4ejlwMXZpMTJwb21pMTU4MmMzZ2k0MHZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/or0s8qzLMNyJW/giphy.gif" width="400" alt="Naruto GIF" />
+</p>
+
 ---
 
 > "I don't just write code — I build **purpose-driven systems** that work, scale, and evolve."
 
 <!-- Feel free to connect! -->
-
