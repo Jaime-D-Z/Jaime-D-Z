@@ -28,16 +28,6 @@
 
 ---
 
-## 🤖 Interests
-
-- Smart bots 🤖 that respond, understand, and act
-- Real-time dashboards and automation systems
-- AI-powered solutions that evolve and learn
-- Clean UI with intelligent backend logic
-- Technology that solves real problems, not just theory
-
----
-
 ## 📈 GitHub Stats
 
 ![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaime-D-Z&show_icons=true&theme=tokyonight&hide_title=true)
